@@ -3,8 +3,8 @@
 This page contains demos for FREME usage scenarios. There are three demonstrators online:
 
 * [FREME ease of adaptation](http://services.freme-project.eu/freme-ease-of-adaptation.html)
-* [FREME ease of integration](http://sandbox.freme-project.eu/freme-ease-of-integration.html)
-* [FREME reuse of enrichment](http://sandbox.freme-project.eu/freme-reuse-of-enrichment.html)
+* [FREME ease of integration](http://services.freme-project.eu/freme-ease-of-integration.html)
+* [FREME reuse of enrichment](http://services.freme-project.eu/freme-reuse-of-enrichment.html)
 
 ## License
 
