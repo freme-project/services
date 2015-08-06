@@ -6,6 +6,8 @@ This page contains demos for FREME usage scenarios. There are three demonstrator
 * [FREME ease of integration](http://services.freme-project.eu/freme-ease-of-integration.html)
 * [FREME reuse of enrichment](http://services.freme-project.eu/freme-reuse-of-enrichment.html)
 
+http://freme-project.eu
+
 ## License
 
 Copyright 2015 Deutsches Forschungszentrum für Künstliche Intelligenz
