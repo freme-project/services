@@ -6,7 +6,7 @@ This page contains demos for FREME usage scenarios. There are three demonstrator
 * [FREME ease of integration](http://services.freme-project.eu/freme-ease-of-integration.html)
 * [FREME reuse of enrichment](http://services.freme-project.eu/freme-reuse-of-enrichment.html)
 
-http://freme-project.eu
+More information on the [FREME homepage](http://freme-project.eu), [FREME wiki](https://github.com/freme-project/technical-discussion/wiki) and [FREME API documentation](http://api.freme-project.eu/doc/current).
 
 ## License
 
