@@ -1,15 +1,15 @@
 # FREME usage scenarios
 
-This page contains demos for FREME usage scenarios. You can view usage scenarios online:
+This page contains demos for FREME usage scenarios. There are three demonstrators online:
 
-[FREME ease of adaptation](http://services.freme-project.eu/freme-ease-of-adaptation.html)
-[FREME ease of integration](http://services.sandbox.freme-project.eu/freme-ease-of-integration.html)
-[FREME reuse of enrichment](http://services.sandbox.freme-project.eu/freme-reuse-of-enrichment.html)
+* [FREME ease of adaptation](http://services.freme-project.eu/freme-ease-of-adaptation.html)
+* [FREME ease of integration](http://services.sandbox.freme-project.eu/freme-ease-of-integration.html)
+* [FREME reuse of enrichment](http://services.sandbox.freme-project.eu/freme-reuse-of-enrichment.html)
 
 ## License
 
 ```
-Copyright 2015 Deutsches Forschungszentrum für Künstliche Intelligenz
+Copyright 2015 Deutsches Forschungszentrum fÃ¼r KÃ¼nstliche Intelligenz
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
